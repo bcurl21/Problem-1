@@ -32,16 +32,16 @@ var greenIcon = new L.Icon({
 
 
 var marker1 = L.marker([38.627555, -90.346005], {icon: greenIcon}).addTo(mymap);
-marker1.bindPopup("<b>Resturant 1</b><br>Bonefish Grill").openPopup();
+marker1.bindPopup("<b>Restaurant 1</b><br>Bonefish Grill").openPopup();
 
 var marker2 = L.marker([38.637013, -90.230629], {icon: greenIcon}).addTo(mymap);
-marker2.bindPopup("<b>Resturant 2</b><br>Vito's Sicilian Pizzeria").openPopup();
+marker2.bindPopup("<b>Restaurant 2</b><br>Vito's Sicilian Pizzeria").openPopup();
 
 var marker3 = L.marker([38.636765, -90.246631], {icon: greenIcon}).addTo(mymap);
-marker3.bindPopup("<b>Resturant 3</b><br>The Scottish Arms Pub").openPopup();
+marker3.bindPopup("<b>Restaurant 3</b><br>The Scottish Arms Pub").openPopup();
 
 var marker4 = L.marker([38.601186, -90.242025], {icon: greenIcon}).addTo(mymap);
-marker4.bindPopup("<b>Resturant 4</b><br>Rooster").openPopup();
+marker4.bindPopup("<b>Restaurant 4</b><br>Rooster").openPopup();
 
 var marker5 = L.marker([38.630457, -90.189476], {icon: greenIcon}).addTo(mymap);
-marker5.bindPopup("<b>Resturant 5</b><br>Sugarfire Smoke House").openPopup();
+marker5.bindPopup("<b>Restaurant 5</b><br>Sugarfire Smoke House").openPopup();
